@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "627E1FF4726606AC6A73BC68B5889ACB91400F15",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "627E1FF4726606AC6A73BC68B5889ACB91400F15" : 0,
+    "428EBE043E84266ADB2F7777C054868C60454D34" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B361CE4C-337F-4FD8-82D0-1F58B684DC3F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "627E1FF4726606AC6A73BC68B5889ACB91400F15" : "Forecast\/",
+    "428EBE043E84266ADB2F7777C054868C60454D34" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Forecast",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Forecast.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/buwanekag\/Day31Forecast.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "428EBE043E84266ADB2F7777C054868C60454D34"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/buwanekag\/Forecast.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "627E1FF4726606AC6A73BC68B5889ACB91400F15"
+    }
+  ]
+}
