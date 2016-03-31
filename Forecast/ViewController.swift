@@ -50,6 +50,7 @@ class ViewController: UIViewController,UISearchBarDelegate,CLLocationManagerDele
                 locationDisplay.text = seachText.text
                 windLabel.hidden = false
                 humidityLabel.hidden = false
+                cloudCover.hidden = false
                 seachText.text = ""
                 detailsView.hidden = false
             
@@ -81,16 +82,11 @@ class ViewController: UIViewController,UISearchBarDelegate,CLLocationManagerDele
     
         let formatedHumidity = String(format:"%.0f",Double(displayForecast.humidity)!*100)
         humidityDisplay.text = "\(formatedHumidity)%"
+     
         
         let formatedCoudCoover = String(format:"%.0f",Double(displayForecast.cloudCover)!*100)
         cloudCoverValue.text = "\(formatedCoudCoover)%"
-        
-        //let formatedVisibility = String(format:"%.0f",Double(displayForecast.Visibility)!*100)
-        //visibilityValue.text = "\(formatedVisibility)"
-        
-        //let formatedPressure = String(format:"%.0f",Double(displayForecast.pressure)!*100)
-        //pressureValue.text = "\(formatedPressure)"
-
+       
 
 
         
@@ -140,10 +136,10 @@ class ViewController: UIViewController,UISearchBarDelegate,CLLocationManagerDele
         windLabel.hidden = true
         humidityLabel.hidden = true
     
-        view.backgroundColor = UIColor.pastelGreen()
+        view.backgroundColor = UIColor.seaBlue()
        
         
-        detailsView.backgroundColor = UIColor.pastelGreen()
+        detailsView.backgroundColor = UIColor.seaBlue()
         detailsView.hidden = true
        
         
