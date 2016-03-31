@@ -13,4 +13,4 @@ Forecast is a weather app that allows the user to be able to check the current w
 
 •	SWIIFT and Xcode 7.2
 
-![Alt text](https://cloud.githubusercontent.com/assets/14354950/12144282/9a86fecc-b454-11e5-83c1-aade880d189a.png) ![Alt text](https://cloud.githubusercontent.com/assets/14354950/12144283/9a906ffc-b454-11e5-802d-2e9d0962a4f8.png)
+![Alt text](https://cloud.githubusercontent.com/assets/14354950/14185739/246ea66c-f749-11e5-8b3e-660d442cf716.png) ![Alt text](https://cloud.githubusercontent.com/assets/14354950/14185769/44921f1e-f749-11e5-852f-dfc2fa361995.png)
